@@ -5,7 +5,7 @@ Welcome to the Computer Architecture CSE-211 repository. This repository contain
 <br />  
 <img/>
 
-![Computer Architecture](computerarchitecturebanner.PNG)
+![Computer Architecture](cse211banner.PNG)
   
 <br />  
 
