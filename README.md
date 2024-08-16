@@ -23,7 +23,7 @@ Welcome to the Computer Architecture CSE-211 repository. This repository contain
 
 In this course, we will cover the fundamental concepts of computer architecture, including computer abstractions, registers, memory units, arithmetic operations, and more. The repository provides a comprehensive guide to understanding and applying these principles through problem-solving.
 
-Check out the playlist now and start your learning journey: [Computer-Architecture-CSE-211 Youtube Playlist Link : ](https://youtube.com/playlist?list=yourplaylistlink)
+Check out the playlist now and start your learning journey: [Computer-Architecture-CSE-211 Youtube Playlist Link : ](https://youtube.com/playlist?list=PLEc-WcPXUsjtP-AgSRlKc-c1lOPzcGsMV&si=uYOmHwUnK9D6IYA9)
 **Happy Learning!**
 
 ## Course Outline
